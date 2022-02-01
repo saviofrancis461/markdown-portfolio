@@ -1,1 +1,8 @@
-Replace this with a list of your favorite things.
+<ol>
+  <li>Amsterdam</li>
+  <li>Banaras</li>
+  <li>Canada</li>
+  <li>Denmark</li>
+</ol>
+  
+  
