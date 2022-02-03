@@ -1,8 +1,7 @@
-<ol>
-  -{}<li>Amsterdam</li>
-  -{}<li>Banaras</li>
-  -{}<li>Canada</li>
-  -{}<li>Denmark</li>
-</ol>
+1. America
+2. Britain
+3. Canada
+   1. Victoria
+   2. Prince Edward Island
   
   
